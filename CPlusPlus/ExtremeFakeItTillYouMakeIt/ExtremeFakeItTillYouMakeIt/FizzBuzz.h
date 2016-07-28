@@ -6,6 +6,6 @@ using namespace std;
 class FizzBuzz
 {
 public:
-	static std::string FizzBuzz::Print( int num );
+	static std::string Print( int num );
 };
 

@@ -1,0 +1,6 @@
+[submodule "CPlusPlus/googletest"]
+	path = CPlusPlus/googletest
+	url = git://github.com/google/googletest
+[submodule "CPlusPlus/ExtremeFakeItTillYouMakeIt/googletest"]
+	path = CPlusPlus/ExtremeFakeItTillYouMakeIt/googletest
+	url = git://github.com/google/googletest
