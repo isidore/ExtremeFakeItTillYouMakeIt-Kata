@@ -207,3 +207,5 @@ test-output/
 .classpath/
 .project
 .settings/
+
+.idea/
